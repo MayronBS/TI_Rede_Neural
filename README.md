@@ -20,3 +20,6 @@ DataSet: Será utiliza o dataset pronto: Poker Hand Data Set - https://www.kaggl
 Tecnologia: Foi implementado na linguagem Python e Scikitlearn.
 
 Técnica: Foi implementado uma Rede Neural Multilayer Perceptron onde a melhor combinação encontrada durante o desenvolvimento, possui 10 camadas de entrada, 2 camadas ocultas com 25 neurônio cada, um coeficiente de aprendizagem de 0.01, 400 iterações. Foi utilizado a estratégia de validação Holdout onde foi separado 2/3 do dataset para o conjunto de teste. Com esta combinação obteve-se uma acurácia de 0.9974.
+
+
+Link para a apresentação: https://youtu.be/6jmMnbtJM_M
