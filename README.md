@@ -23,3 +23,11 @@ Técnica: Foi implementado uma Rede Neural Multilayer Perceptron onde a melhor c
 
 
 Link para a apresentação: https://youtu.be/6jmMnbtJM_M
+
+
+
+Instruções para testar: 
+  1: acessar o link-> https://colab.research.google.com/drive/1OeAzC0qa5mjkKz-ShLhQ70zhXVHneC9-#scrollTo=mo2vWeUGiKBT,
+  2: fazer o download do dataset: https://www.kaggle.com/anupamujawane/poker-hands-dataset
+  3: importar o arquivo no colab;
+  4: pode-se executar todo o código de uma vez pressionando ctrl+F9 ou executar uma célula de cada vez;
