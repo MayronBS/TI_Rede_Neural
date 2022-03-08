@@ -1,8 +1,6 @@
 # TI_Rede_Neural
 Trabalho de Implementação - Rede Neural
 
-Equipe: Mayron Boelling da Silva e Lucas de Liz Frutuoso;
-
 Problema: Desenvolver uma rede neural capaz de classificar uma mão de poker. As entradas fornecidas para fazer a classificação serão naipes de cada carta(número de 1 a 4 representando(copas, espadas, ouro, paus) e o seu respectivo ranking(número de 1 a 13 representando(Ás, 2, 3, ... Dama, Rei). Uma mão de poker é classificada pela combinação de 5 cartas e seus respectivos naipes e valores, onde é possível obter as seguintes combinações: 
   1: Um Par; Duas cartas do mesmo valor;
   2: Dois Pares; Duas cartas de um mesmo valor, outras duas cartas diferentes de mesmo valor;
